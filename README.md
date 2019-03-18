@@ -1,8 +1,7 @@
 # insta_1
-Codepath_insta_pt1
-# Project 3 - *Name of App Here*
+# Project 3 - *Codepath_insta_pt1*
 
-**Name of your app** is a photo sharing app similar to Instagram but using Parse as its backend.
+**Insta_droid1** is a photo sharing app similar to Instagram but using Parse as its backend.
 
 Time spent: **X** hours spent in total
 
